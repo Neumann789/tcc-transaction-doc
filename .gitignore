@@ -31,6 +31,6 @@ Thumbs.db
 
 .flattened-pom.xml
 
-build
+#build
 
 node_modules
